@@ -30,3 +30,4 @@
 -Merging a branch
 % git merge <branch_name>
 -Removing a branch
+% git branch -d <branch_name>
